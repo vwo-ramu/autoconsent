@@ -27,6 +27,7 @@
   "license": "MPL-2.0",
   "dependencies": {},
   "devDependencies": {
+    "rollup-plugin-typescript2": "^0.36.0",
     "@playwright/test": "^1.17.1",
     "@rollup/plugin-typescript": "^4.0.0",
     "@types/chai": "^4.2.11",
